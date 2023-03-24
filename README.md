@@ -2,11 +2,11 @@
 
 ## Table of Content
 
-  * [Overview](#overview)
-  * [Installation](#installation)
-  * [Directory Tree](#directory-tree)
-  * [About Code and It's challages](#About Code and It's challages)
-  * [Bug / Feature Request](#bug---feature-request)
+  * Overview
+  * Installation
+  * Directory Tree
+  * About Code and It's challages
+  * Bug / Feature Request
 
 ## Overview
 The code primarily focuses on 
